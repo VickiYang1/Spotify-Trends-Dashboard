@@ -1,8 +1,10 @@
 # Spotify Trends Dashboard (PowerBI, Python)
 
+
 ## Overview
 This project is an **interactive spotify analytics dashboard** built in **PowerBI**, using data retrieved from Spotify's developer web API.  
 The dashboard provides insights into different artists from around the world, detailing information about their popularity ranking, genres, listeners, etc, enabling exploration of trends in the top 100 songs globally.
+
 ---
 
 ## Contents
